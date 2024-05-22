@@ -1,2 +1,3 @@
 # mcq_generator
-This Repo contain code for MCQ genrator project. I'll use OpenAI to deveop this
+This is mcq generator project using Generative AI.
+In this project I am going to use OpenAI API with langchain.

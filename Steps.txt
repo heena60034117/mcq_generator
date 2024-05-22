@@ -1,0 +1,8 @@
+Setup Development env
+run few experment in jupyter notebook
+convert code to moduler code
+create web api
+deploy code on server
+
+vector db
+RAG
