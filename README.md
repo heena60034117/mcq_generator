@@ -2,8 +2,10 @@
 This is mcq generator project using Generative AI.
 In this project I am going to use OpenAI API with langchain.
 
-## Screenshot
+## MCQ Generator GIF
+![App Screenshot](assets/MCQ_Generator.gif)
 
+## Jupyter MCQ Generator screenshots
 ![App Screenshot](assets/Screenshot2024-05-22151710.png)
 ![App Screenshot](assets/Screenshot2024-05-22151724.png)
 ![App Screenshot](assets/Screenshot2024-05-22151735.png)
